@@ -1,0 +1,45 @@
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# Build output
+# =========================
+bin/
+obj/
+
+# =========================
+# .NET tooling
+# =========================
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Rider / JetBrains (just in case)
+# =========================
+.idea/
+*.sln.iml

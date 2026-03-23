@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- CSV loading/saving library (simpler than manual parsing) -->
+    <PackageReference Include="CsvHelper" />
+  </ItemGroup>
+</Project>
